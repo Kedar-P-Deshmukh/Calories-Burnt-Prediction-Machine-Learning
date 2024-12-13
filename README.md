@@ -6,14 +6,14 @@ Develop a machine learning model to accurately predict the number of calories bu
 **Dataset Overview:-**
 The dataset contains 15,000 rows and includes 9 columns: User_ID, Gender, Age, Height, Weight, Duration, Heart_Rate, Body_Temp, and Calories. Each row represents data for an individual user's exercise session, capturing personal characteristics, exercise details, and the calories burned.User_ID: Unique identifier assigned to each user.
 
-Gender: Biological sex of the user (e.g., Male, Female).
-Age: Age of the user in years.
-Height: Height of the user in centimeters (cm).
-Weight: Weight of the user in kilograms (kg).
-Duration: Duration of the exercise or activity in minutes.
-Heart_Rate: Average heart rate of the user during the activity, measured in beats per minute (bpm).
-Body_Temp: Body temperature of the user during the activity, measured in degrees Celsius (°C).
-Calories: Total number of calories burned by the user during the activity.
+Gender: Biological sex of the user (e.g., Male, Female).  
+Age: Age of the user in years.  
+Height: Height of the user in centimeters (cm).  
+Weight: Weight of the user in kilograms (kg).  
+Duration: Duration of the exercise or activity in minutes.  
+Heart_Rate: Average heart rate of the user during the activity, measured in beats per minute (bpm).  
+Body_Temp: Body temperature of the user during the activity, measured in degrees Celsius (°C).  
+Calories: Total number of calories burned by the user during the activity.  
 
 **Approach:-**
 The following steps were followed in the project:
