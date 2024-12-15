@@ -16,14 +16,14 @@ Body_Temp: Body temperature of the user during the activity, measured in degrees
 Calories: Total number of calories burned by the user during the activity.  
 
 **Approach:-**
-The following steps were followed in the project:
-Data Loading and cleaning: Loaded data set and checked and removed the Null values and duplicate values. 
-Exploratory Data Analysis: Did Exploratory Analysis to understand relations among columns and various insights in data. 
-Data Pre-Processing: - Checked and removed the outliners using IQR method.
-Data Split: The pre-processed data was split into training and test. 
-Model Training: By using training data, we trained our predictive model and we used testing data to evaluate our prediction.
-We first trained model with only duration parameter, then with most relevant column and the all column.
-We also evaluated various different Regression model like Linear Regression , XG Boost, Lasso Regression, Ridge Regression, RandomForest Regression.
+The following steps were followed in the project:  
+Data Loading and cleaning: Loaded data set and checked and removed the Null values and duplicate values.   
+Exploratory Data Analysis: Did Exploratory Analysis to understand relations among columns and various insights in data.   
+Data Pre-Processing: - Checked and removed the outliners using IQR method.  
+Data Split: The pre-processed data was split into training and test.   
+Model Training: By using training data, we trained our predictive model and we used testing data to evaluate our prediction.  
+We first trained model with only duration parameter, then with most relevant column and the all column.  
+We also evaluated various different Regression model like Linear Regression , XG Boost, Lasso Regression, Ridge Regression, RandomForest Regression  .
 
 **Model Evaluation:-** The performance of the trained models was evaluated using metrics such as mean absolute error. And K-fold cross validation.
 
